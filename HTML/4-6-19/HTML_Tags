@@ -1,0 +1,55 @@
+Closed Tags
+
+html
+head
+title
+body
+h1-h6
+p
+pre
+q
+blockquote cite
+address
+abbr
+picture 
+
+Open Tags
+
+hr
+<br><br/>
+
+Attributes
+
+style---width,height,border,background-color,color,text-align,font-color,font-family,font-size,text-decoration,display,padding,margin,float.
+a href
+img src
+source
+alt
+target
+
+Links
+
+link rel
+active
+hover
+visited
+
+Formatting
+
+b
+i
+em
+mark
+ins
+del
+strong
+small
+sub
+sup
+
+Tables
+
+border-collapse
+colspan
+rowspan
+caption
